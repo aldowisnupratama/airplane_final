@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "40083356284",
+    "project_id": "airplane-c872f",
+    "storage_bucket": "airplane-c872f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40083356284:android:349d0eec6660b6784427f9",
+        "android_client_info": {
+          "package_name": "com.aldowisnu.airplane"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "40083356284-skcsajik7sm0a1uuu64stpkbcf1niddf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGCvgkt21gbVBQK4tnXCYhe4-UPAiec-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "40083356284-skcsajik7sm0a1uuu64stpkbcf1niddf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "40083356284-d2jgvpcn0j7pj5r8dk634hacl5da2ala.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.aldowisnu.airplane"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,13 @@
+const String splashPagePath = "/";
+const String getStartedPath = "/get_started_page";
+const String signUpPagePath = "/sign_up_page";
+const String bonusPagePath = "/bonus_page";
+const String mainPagePath = "/main_page";
+const String homePagePath = "/home_page";
+const String detailPagePath = "/detail_page";
+const String chooseSeatPagePath = "/choose_seat_page";
+const String checkoutPagePath = "/checkout_page";
+const String succesCheckoutPage = "/success_checkout_page";
+const String signInPagePath = "/sign_in_page";
+const String transactionPagePath = "/transaction_page";
+const String walletPagepath = "/wallet_page";

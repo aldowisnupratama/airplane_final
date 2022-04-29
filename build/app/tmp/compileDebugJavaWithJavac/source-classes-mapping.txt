@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/aldowisnu/airplane/BuildConfig.java
+ com.aldowisnu.airplane.BuildConfig
